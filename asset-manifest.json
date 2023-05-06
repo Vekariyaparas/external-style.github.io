@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/external-style.github.io/static/css/main.0403081d.css",
+    "main.js": "/external-style.github.io/static/js/main.7d8bc082.js",
+    "static/js/787.53d44182.chunk.js": "/external-style.github.io/static/js/787.53d44182.chunk.js",
+    "index.html": "/external-style.github.io/index.html",
+    "main.0403081d.css.map": "/external-style.github.io/static/css/main.0403081d.css.map",
+    "main.7d8bc082.js.map": "/external-style.github.io/static/js/main.7d8bc082.js.map",
+    "787.53d44182.chunk.js.map": "/external-style.github.io/static/js/787.53d44182.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0403081d.css",
+    "static/js/main.7d8bc082.js"
+  ]
+}
